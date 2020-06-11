@@ -1,4 +1,4 @@
-# 314COVID-19
+# 314COVID-19 #R-Statistic
 The dataset we are trying to use is the CoronaVirus outbreak dataset from 2019-2020. 
 The dataset is attached: https://www.kaggle.com/kimjihoo/coronavirusdataset
 
